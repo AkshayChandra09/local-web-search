@@ -1,0 +1,37 @@
+.index { 
+    background: url(book.jpg) no-repeat fixed center; 
+	background-size: 100% 100%;
+}
+
+.bookmarks{
+		position: relative;
+		top: 60%
+		left: 10%;
+	}
+	
+mark { 
+    background-color: chocolate;
+    color: white;
+    padding: 10px;
+}
+
+.action { 
+	background: url(back.jpg) no-repeat fixed center; 
+	background-size: 100% 100%;
+}
+
+.result { 
+    background: url(result.jpeg) no-repeat fixed center; 
+	background-size: 100% 100%;
+}
+
+
+.bordered {
+	width: 1000px;
+	height: 100px;
+	padding: 10px;
+	border: 3px solid darkorange;
+	border-radius: 8px;
+	background-color:khaki;
+	color:black;
+}
