@@ -1,11 +1,9 @@
 
 
-	Data Mining Assignment 3
+	Local Web Search
 _______________________________________________________
 	
-Student Name: Akshay Chandrachood
-Net id: amc400
-Txstate id: A04742395
+Name: Akshay Chandrachood
 
 ________________________________________________________
 
@@ -52,7 +50,7 @@ For setting up an environment follow these steps:
    Now go to command prompt. Type following command for indexing of a file:
    (you should be in solr-6.5.0 folder but out of bin folder. To get back out of bin type "cd.." without quotes)
    
-   java -Dtype=text/csv -Dc=gettingstarted -jar example/exampledocs/post.jar "E:\solr\lyrics.csv" 
+   java -Dtype=text/csv -Dc=gettingstarted -jar example/exampledocs/post.jar "../lyrics.csv" 
    
    (Put double quotes in the above command as it is). Path of the files to be 
    indexed may be different. Provide the respective path.Command

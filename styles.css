@@ -1,5 +1,5 @@
 .index { 
-    background: url(book.jpg) no-repeat fixed center; 
+    background: url(images/book.jpg) no-repeat fixed center; 
 	background-size: 100% 100%;
 }
 
@@ -16,12 +16,12 @@ mark {
 }
 
 .action { 
-	background: url(back.jpg) no-repeat fixed center; 
+	background: url(images/back.jpg) no-repeat fixed center; 
 	background-size: 100% 100%;
 }
 
 .result { 
-    background: url(result.jpeg) no-repeat fixed center; 
+    background: url(images/result.jpeg) no-repeat fixed center; 
 	background-size: 100% 100%;
 }
 
